@@ -3,7 +3,7 @@
 ## Instructions
 
 * Put `clean.py` and the raw Excel file in the same folder.
-* From the command prompt, run `clean.py <your_filename>.xlsx`.
+* From the command prompt, run `python clean.py <your_filename>.xlsx`.
 * If the program runs succcessfully, `clean_spirits.csv` will be added to the folder.
 
 ## Dependencies
